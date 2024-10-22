@@ -29,3 +29,9 @@ https://effective-rust.com/title-page.html
   - Item 23: Avoid wildcard imports/useインポートでワイルドカードは避ける
   - Item 24: Re-export dependencies whose types appear in your API/
   - Item 25: Manage your dependency graph/依存関係グラフを管理
+  - Item 26: Be wary of feature creeph/
+- 5. Tooling
+  - Item 27: Document public interfaces/パブリック・インターフェースを文書化する
+  - Item 28: Use macros judiciously/マクロを賢く使う
+  - Item 29: Listen to Clippy/Listen to Clippy
+  - Item 30: Write more than unit tests/
