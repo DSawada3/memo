@@ -1,0 +1,31 @@
+https://effective-rust.com/title-page.html
+
+- 1. Type
+  - Item 1: Use the type system to express your data structures/型システムを使ってデータ構造を表現する
+  - Item 2: Use the type system to express common behavior/型システムを使用して共通の動作を表現する
+  - Item 3: Prefer Option and Result transforms over explicit match expressions/明示的なmatch式よりも、OptionおよびResultの変換を優先する
+  - Item 4: Prefer idiomatic Error types/慣用的なエラーの種類を好む
+  - Item 5: Understand type conversions/型変換を理解する
+  - Item 6: Embrace the newtype pattern/newtypeパターンを取り入れる
+  - Item 7: Use builders for complex types/複雑なタイプにはビルダーを使用する
+  - Item 8: Familiarize yourself with reference and pointer types/参照とポインタのタイプについて慣れる
+  - Item 9: Consider using iterator transforms instead of explicit loops/明示的なループの代わりにイテレータ変換を使用することを検討する
+- 2. Traits
+  - Item 10: Familiarize yourself with standard traits/標準的なtraitsに慣れる
+  - Item 11: Implement the Drop trait for RAII patterns/RAIIパターン用のDropt traitを実装する
+  - Item 12: Understand the trade-offs between generics and trait objects/genericsとtraitオブジェクトのトレードオフを理解する
+  - Item 13: Use default implementations to minimize required trait methods/必要なtraitメソッドを最小化するためにデフォルトの実装を使用する
+- 3. Concepts
+  - Item 14: Understand lifetimes/ライフタイムを理解する
+  - Item 15: Understand the borrow checker/borrow checkerを理解する
+  - Item 16: Avoid writing unsafe code/unsafe codeを避ける
+  - Item 17: Be wary of shared-state parallelism/状態共有並行性に注意する
+  - Item 18: Don’t panic/Don’t panic
+  - Item 19: Avoid reflection/reflectionを避ける
+  - Item 20: Avoid the temptation to over-optimize/過剰最適化の誘惑を避ける
+- 4. Dependencies
+  - Item 21: Understand what semantic versioning promise/
+  - Item 22: Minimize visibility/可視性は最小限にする
+  - Item 23: Avoid wildcard imports/useインポートでワイルドカードは避ける
+  - Item 24: Re-export dependencies whose types appear in your API/
+  - Item 25: Manage your dependency graph/依存関係グラフを管理
